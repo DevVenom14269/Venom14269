@@ -16,6 +16,8 @@
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.2s;
+  width: 270
+  height: 150
 }
 
 .game-card:hover {
