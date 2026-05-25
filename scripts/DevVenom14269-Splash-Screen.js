@@ -7,7 +7,7 @@
     if (mouseX > (205/400)*width && mouseX < (400/400)*width && mouseY > (332/400)*height && mouseY < (398/400)*height) {
       cursor(HAND);
       if (mouseIsPressed) {
-        window.open("https://venom14269.w3spaces.com/landing/landing.html", target="_parent");
+        window.open("landing.html", target="_parent");
       }
     } else {
       cursor();
