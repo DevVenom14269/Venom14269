@@ -88,6 +88,14 @@
   border: none;
   cursor: pointer;
 }
+.Games-Btn {
+  background-color: #ffa500;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
 .Splash-Btn {
   background-color: #ff0000;
   color: white;
